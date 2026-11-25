@@ -48,7 +48,6 @@ function isPrime(number){
     }
   }
   return true;
-
 }
 console.log(isPrime(3));
 console.log(isPrime(20));
